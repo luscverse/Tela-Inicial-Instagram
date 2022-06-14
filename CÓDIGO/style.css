@@ -120,11 +120,11 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url(google-button.png);
+    background-image: url("MATERIAIS\google-button.png");
 }
 
 .app-download:nth-child(2){
-    background-image: url(apple-button.png);
+    background-image: url("MATERIAIS\apple-button.png");
 }
 
 /* media queries */
